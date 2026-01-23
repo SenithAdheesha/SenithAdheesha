@@ -44,10 +44,11 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
 </p> -->
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
+<p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdscW02ajQ2Mm1kcHc0c3B5aTgzMjFqNzFzbnkxZnRhbHRud3k0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/taq5me3nQ4r0limY4F/giphy.gif" width="280" />
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdscW02ajQ2Mm1kcHc0c3B5aTgzMjFqNzFzbnkxZnRhbHRud3k0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/taq5me3nQ4r0limY4F/giphy.gif" width="280" />
-</div>
+</p>
+
 
 
 
