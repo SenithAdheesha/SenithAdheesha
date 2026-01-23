@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=250&section=header&text=Hi,%20I'm%20Senith_Adheesha&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=A%20Web%20Developer%20in%20Making&descAlignY=65"/>
 </p>
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGx4OTNteTdvbHVxZXM0ejQxMHJjY3NjeG05YzNzNGhpeW9vaXZoZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="280" align="right" />
 
 ### 👋 Hello there!
 
