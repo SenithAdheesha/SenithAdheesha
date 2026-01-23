@@ -36,13 +36,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenithAdheesha&layout=compact&theme=tokyonight"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SenithAdheesha&theme=tokyonight"/>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
-</p>
+</p> -->
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdscW02ajQ2Mm1kcHc0c3B5aTgzMjFqNzFzbnkxZnRhbHRud3k0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/taq5me3nQ4r0limY4F/giphy.gif" width="280" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdscW02ajQ2Mm1kcHc0c3B5aTgzMjFqNzFzbnkxZnRhbHRud3k0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/taq5me3nQ4r0limY4F/giphy.gif" width="280" />
+</div>
+
 
 <p align="center">
   ⭐ Thanks for visiting my profile!
