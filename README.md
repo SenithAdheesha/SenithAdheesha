@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi 👋 I'm Senith
 
-<!--
-**SenithAdheesha/SenithAdheesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+💻 Interested in Web Development  
+🚀 Learning Java, PHP, JavaScript, Angular  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- HTML, CSS, Bootstrap
+- JavaScript, TypeScript
+- PHP, Java
+- SQL, MySQL
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SenithAdheesha&show_icons=true)
+
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![PHP](https://img.shields.io/badge/PHP-purple)
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Web+Developer;Always+Learning)
