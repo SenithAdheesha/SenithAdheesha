@@ -1,27 +1,51 @@
-## Hi 👋 I'm Senith
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=250&section=header&text=Hi,%20I'm%20Senith_Adheesha&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=A%20Web%20Developer%20in%20Making&descAlignY=65"/>
+</p>
+
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### 👋 Hello there!
 
 🎓 Software Engineering Student  
-💻 Interested in Web Development  
-🚀 Learning Java, PHP, JavaScript, Angular  
+💻 Web Developer in making  
+🚀 Passionate about building real-world applications  
 
----
+🌱 Currently learning **Angular & Backend Development**  
+🎯 Goal: Become a professional **Full-Stack Engineer**
 
-### 🛠 Tech Stack
-- HTML, CSS, Bootstrap
-- JavaScript, TypeScript
-- PHP, Java
-- SQL, MySQL
+## 🛠 Technology Stack ⚙️
 
----
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge)
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SenithAdheesha&show_icons=true)
+![PHP](https://img.shields.io/badge/PHP-indigo?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-lightblue?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
 
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![PHP](https://img.shields.io/badge/PHP-purple)
+## 📊 My GitHub Stats 📈
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SenithAdheesha&show_icons=true&theme=tokyonight"/>
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Web+Developer;Always+Learning)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenithAdheesha&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SenithAdheesha&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
+
+
