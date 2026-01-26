@@ -6,7 +6,7 @@
 <tr>
 <td width="65%" valign="top">
 
-### 👋 Hello there!
+### 👋 Hello!
 
 🎓 Software Engineering Student  
 💻 Web Developer in making  
@@ -30,12 +30,14 @@
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-lightblue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge" />
+  
 </p>
 
 </td>
 <td width="35%" align="center" valign="top">
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemV2aDh0ZXFiczg2MTVibm9vZW9jdGNpaTg0ZHR4aDRrN2F5ZXl0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="100%" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3k4eThnbmRhMTNqczkycmg2OGV1MG1uYm1qM2tteDd3dXg5NXk3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif" />
 
 </td>
 </tr>
