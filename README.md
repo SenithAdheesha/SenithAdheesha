@@ -40,7 +40,8 @@
 - Angular Applications  
 - Backend APIs  
 - Database Design  
-- Clean UI / UX  
+- Clean UI / UX
+- Design  
 
 </td>
 
