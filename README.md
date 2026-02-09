@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-🎓 Software Engineering Student  
+🎓 Software Engineering Student (BIT@Earth)
 💻 Aspiring Web Developer  
 🚀 Passionate about building real-world applications  
 
