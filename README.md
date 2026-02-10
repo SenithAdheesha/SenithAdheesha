@@ -8,8 +8,11 @@
 
 ## 👋 About Me
 
-🎓 Software Engineering Student (BIT@Earth)
-💻 Aspiring Web Developer  
+🎓 Software Engineering Student
+💻 Aspiring Web Developer 
+
+Bachelor of Information Technology @ Earth University College Colombo  
+
 🚀 Passionate about building real-world applications  
 
 🌱 Currently learning **Angular & Backend Development**  
