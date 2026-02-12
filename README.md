@@ -6,7 +6,7 @@
 <tr>
 <td width="65%" valign="top">
 
-## 👋 About Me
+## 👋 About
 
 🎓 Software Engineering Student
 💻 Aspiring Web Developer 
