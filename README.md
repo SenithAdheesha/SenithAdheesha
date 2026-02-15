@@ -62,8 +62,8 @@ Bachelor of Information Technology @ Earth University College Colombo 08
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SenithAdheesha&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenithAdheesha&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Senith Adheesha&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senith Adheesha&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 
