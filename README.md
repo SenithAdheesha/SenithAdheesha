@@ -11,7 +11,7 @@
 🎓 Software Engineering Student
 💻 Aspiring Web Developer 
 
-Bachelor of Information Technology @ Earth University College Colombo 08
+Bachelor of Information Technology @ Earth University College 
 
 🚀 Passionate about building real-world applications  
 
