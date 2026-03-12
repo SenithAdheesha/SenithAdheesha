@@ -42,13 +42,11 @@
 - Clean UI / UX & Web Design  
 
 ---
-
-
-
+<!--animation gif-->
 <p align="center">
   <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemV2aDh0ZXFiczg2MTVibm9vZW9jdGNpaTg0ZHR4aDRrN2F5ZXl0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="200" /> 
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3k4eThnbmRhMTNqczkycmg2OGV1MG1uYm1qM2tteDd3dXg5NXk3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif" width="200" /> -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHFlZjE5bTdmcXVxdzYwZDg5bGY0djE1cTAwY2Y0M3d3bGdyejgxciZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif"  />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHFlZjE5bTdmcXVxdzYwZDg5bGY0djE1cTAwY2Y0M3d3bGdyejgxciZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" height="150%" width="150%" />
 </p>
 
 ---
