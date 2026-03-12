@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b7636,100:4e7643&height=250&section=header&text=Hi,%20I'm%20Senith%20Adheesha&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Full-Stack%20Web%20Developer&descAlignY=65"/>
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b7636,100:4e7643&height=250&section=header&text=Hi,%20I'm%20Senith%20Adheesha&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Full-Stack%20Web%20Developer&descAlignY=65"/> -->
+  <img src="https://raw.githubusercontent.com/SenithAdheesha/SenithAdheesha/main/github-header-banner.png" alt="GitHub Banner" width="800"/>
 </p>
 
 <table width="100%">
