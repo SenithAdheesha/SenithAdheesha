@@ -5,6 +5,7 @@
 
 ---
 
+
 ## 👋 Hi, I'm Senith Adeesha
 
 🎓 Software Engineering Student  
@@ -16,6 +17,17 @@
 ---
 
 ## 🛠 My Tech Stack
+
+<span>
+<p align="center" display=""inline-block>
+  <!-- <img src="https://colorlib.com/wp/wp-content/uploads/sites/2/angular-logo.png" alt="ang" width="20%" />  -->
+  <img src="https://i0.wp.com/e4developer.com/wp-content/uploads/2018/01/spring-boot.png?resize=600%2C315&ssl=1" alt="spring" width="20%" />
+  <img src="https://angular.dev/assets/images/ng-image.jpg" alt="spring" width="20%">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" alt="spring" width="100px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="20%" />
+  <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="20%" />
+</p>
+<span/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge" />
