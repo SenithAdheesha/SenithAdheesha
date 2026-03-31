@@ -40,9 +40,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PHP-indigo?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-lightblue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-lightblue?style=for-the-badge" />  
 </p>
 
 ---
