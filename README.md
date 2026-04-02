@@ -49,8 +49,8 @@
 
 ## 🚀 What I'm Working On
 
+- Backend APIs & Database Design
 - Angular Applications  
-- Backend APIs & Database Design  
 - Clean UI / UX & Web Design  
 
 ---
