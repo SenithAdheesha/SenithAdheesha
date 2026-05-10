@@ -21,7 +21,7 @@
 <span>
 <p align="center" display=""inline-block>
   <!-- <img src="https://colorlib.com/wp/wp-content/uploads/sites/2/angular-logo.png" alt="ang" width="20%" />  -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1280px-Spring_Boot.svg.png" alt="spring" width="10%" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/3840px-Spring_Boot.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="spring" width="10%" />
   <img src="https://angular.dev/assets/images/ng-image.jpg" alt="spring" width="20%">
   <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" alt="spring" width="100px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="20%" />
