@@ -62,15 +62,23 @@
 </p>
 
 ---
-<!--
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SenithAdheesha&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenithAdheesha&layout=compact&theme=tokyonight" width="48%" />
-</p>
--->
+<img src="https://github-readme-stats.vercel.app/api?username=SenithAdheesha&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenithAdheesha&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=SenithAdheesha&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
 ---
 
 <p align="center">
